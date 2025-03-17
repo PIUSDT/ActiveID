@@ -1,7 +1,7 @@
 [
     {
         "licenseKey": "123",
-        "assignedTo": "xss_id", 
+        "assignedTo": "@xss_id", 
         "expirationDate": "2025-12-31"
     },
     {
