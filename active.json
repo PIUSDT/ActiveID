@@ -1,12 +1,7 @@
 [
-    {
-        "licenseKey": "admin123",
-        "expirationDate": "2025-01-16",
-        "assignedTo": "XSS_ID"
-    },
-    {
-        "licenseKey": "admin",
-        "expirationDate": "2025-01-16",
-        "assignedTo": "biyar007"
-    }
+  {
+    "licenseKey": "key",
+    "assignedTo": "biyar007",
+    "expirationDate": "2025-12-31"
+  }
 ]
